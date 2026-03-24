@@ -71,13 +71,9 @@ Agent repositories follow the same pattern: any `.md` file with a YAML frontmatt
 
 **Imported status** is determined by scanning the destination directory for existing `.md` files and comparing names. Items already present are shown with an `imported` badge and dimmed name.
 
----
-
-## Screenshot
-
-> *(Add a screenshot here after first use)*
-
----
+```
+![Claude Code Manager](screenshot.png)
+```
 
 ## Contributing
 
